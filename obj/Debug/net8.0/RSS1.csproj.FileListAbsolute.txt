@@ -1,0 +1,17 @@
+C:\Users\ivano\source\repos\RSS1\bin\Debug\net8.0\RSS1.exe
+C:\Users\ivano\source\repos\RSS1\bin\Debug\net8.0\RSS1.deps.json
+C:\Users\ivano\source\repos\RSS1\bin\Debug\net8.0\RSS1.runtimeconfig.json
+C:\Users\ivano\source\repos\RSS1\bin\Debug\net8.0\RSS1.dll
+C:\Users\ivano\source\repos\RSS1\bin\Debug\net8.0\RSS1.pdb
+C:\Users\ivano\source\repos\RSS1\obj\Debug\net8.0\RSS1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivano\source\repos\RSS1\obj\Debug\net8.0\RSS1.AssemblyInfoInputs.cache
+C:\Users\ivano\source\repos\RSS1\obj\Debug\net8.0\RSS1.AssemblyInfo.cs
+C:\Users\ivano\source\repos\RSS1\obj\Debug\net8.0\RSS1.csproj.CoreCompileInputs.cache
+C:\Users\ivano\source\repos\RSS1\obj\Debug\net8.0\RSS1.dll
+C:\Users\ivano\source\repos\RSS1\obj\Debug\net8.0\refint\RSS1.dll
+C:\Users\ivano\source\repos\RSS1\obj\Debug\net8.0\RSS1.pdb
+C:\Users\ivano\source\repos\RSS1\obj\Debug\net8.0\RSS1.genruntimeconfig.cache
+C:\Users\ivano\source\repos\RSS1\obj\Debug\net8.0\ref\RSS1.dll
+C:\Users\ivano\source\repos\RSS1\obj\Debug\net8.0\RSS1.csproj.AssemblyReference.cache
+C:\Users\ivano\source\repos\RSS1\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\ivano\source\repos\RSS1\obj\Debug\net8.0\RSS1.csproj.Up2Date
